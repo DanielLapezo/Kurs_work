@@ -1,0 +1,48 @@
+﻿  Client.cpp
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(685): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(688): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(691): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(737): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(760): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(842): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(894): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(916): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(938): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(960): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(98): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(97): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(498): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Process<int>::setProfit(double)"
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(238): note: выполняется компиляция ссылки на экземпляр шаблон класс "Process<int>"
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(591): note: выполняется компиляция ссылки на экземпляр шаблон класс "Logistics<T>"
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(95): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(94): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(497): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Process<int>::setPerInterest(double)"
+c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(92): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(91): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\kurs_work\kurs_work\client.cpp(496): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Process<int>::setExpenses(double)"
+  Kurs_work.vcxproj -> C:\Users\User\source\repos\Kurs_work\Debug\Kurs_work.exe
