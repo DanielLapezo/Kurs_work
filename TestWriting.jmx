@@ -12,17 +12,6 @@
       <stringProp name="TestPlan.user_define_classpath"></stringProp>
     </TestPlan>
     <hashTree>
-      <com.blazemeter.jmeter.RandomCSVDataSetConfig guiclass="com.blazemeter.jmeter.RandomCSVDataSetConfigGui" testclass="com.blazemeter.jmeter.RandomCSVDataSetConfig" testname="TextRandom" enabled="true">
-        <stringProp name="filename">C:\Tools\apache-jmeter-5.4.1\bin\text.csv</stringProp>
-        <stringProp name="fileEncoding">UTF-8</stringProp>
-        <stringProp name="delimiter">,</stringProp>
-        <stringProp name="variableNames">CSV_Login</stringProp>
-        <boolProp name="randomOrder">true</boolProp>
-        <boolProp name="ignoreFirstLine">true</boolProp>
-        <boolProp name="rewindOnTheEndOfList">true</boolProp>
-        <boolProp name="independentListPerThread">false</boolProp>
-      </com.blazemeter.jmeter.RandomCSVDataSetConfig>
-      <hashTree/>
       <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
