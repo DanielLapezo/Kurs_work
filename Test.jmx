@@ -698,7 +698,7 @@
               </elementProp>
               <elementProp name="influxDBHost" elementType="Argument">
                 <stringProp name="Argument.name">influxDBHost</stringProp>
-                <stringProp name="Argument.value">host.docker.internal</stringProp>
+                <stringProp name="Argument.value">localhost</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="influxDBPort" elementType="Argument">
